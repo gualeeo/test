@@ -1,2 +1,2 @@
-# test change from GitHub
+# test from second branch
 change from GitHub
